@@ -1,6 +1,6 @@
-# Olá 👋, me chamo Bruno Escanhoela
+# Olá, me chamo Bruno Escanhoela
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+Software;Engenharia+de+Computa%C3%A7%C3%A3o+na+FACENS;Estudando+Python+e+Java;Apaixonado+por+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&vCenter=true&width=600&height=45&lines=Desenvolvedor+de+Software;Engenharia+de+Computa%C3%A7%C3%A3o+na+FACENS;Estudando+Python+e+Java;Automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
 
 🎓 Engenheiro de computação em formação na FACENS  
 👨🏼‍💻 Desenvolvedor de Software | Estudando Python e Java  
