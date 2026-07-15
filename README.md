@@ -1,5 +1,7 @@
 # Olá 👋, me chamo Bruno Escanhoela
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+Software;Engenharia+de+Computa%C3%A7%C3%A3o+na+FACENS;Estudando+Python+e+Java;Apaixonado+por+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
+
 🎓 Engenheiro de computação em formação na FACENS  
 👨🏼‍💻 Desenvolvedor de Software | Estudando Python e Java  
 🚀 Apaixonado por desenvolvimento de software, automação e soluções inteligentes
@@ -43,13 +45,12 @@
 
 
 
-## 📊 GitHub Stats
+## 🚀 Projetos em destaque
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoEscanhoela&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEscanhoela&layout=compact&theme=tokyonight" />
-</p>
+- 🦆 **[duck-game-strategy](https://github.com/BrunoEscanhoela/duck-game-strategy)** — Simulador de patos em **Java** que demonstra o Padrão de Projeto _Strategy_ com composição de comportamentos e troca dinâmica em tempo de execução.
+- 🎮 **[jogos-classicos](https://github.com/BrunoEscanhoela/jogos-classicos)** — Coleção de jogos clássicos (Jogo da Velha e Forca) implementados em **Python**.
 
+---
 
 ## 💡Filosofia
 
