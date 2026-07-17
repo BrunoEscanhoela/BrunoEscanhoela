@@ -47,6 +47,7 @@
 
 ## 🚀 Projetos em destaque
 
+- ⛩️ **[travel-landing](https://github.com/BrunoEscanhoela/travel-landing)** — Landing page de viagens com tema escuro apresentando Tokyo, feita com **HTML5**, **CSS3** e **JavaScript puro**, totalmente responsiva. → [Ver site no ar](https://brunoescanhoela.github.io/travel-landing/)
 - 🦆 **[duck-game-strategy](https://github.com/BrunoEscanhoela/duck-game-strategy)** — Simulador de patos em **Java** que demonstra o Padrão de Projeto _Strategy_ com composição de comportamentos e troca dinâmica em tempo de execução.
 - 🎮 **[jogos-classicos](https://github.com/BrunoEscanhoela/jogos-classicos)** — Coleção de jogos clássicos (Jogo da Velha e Forca) implementados em **Python**.
 
