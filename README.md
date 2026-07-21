@@ -8,8 +8,9 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
+- **[Portfólio](https://brunoescanhoela.github.io)**
 - <a href="https://linkedin.com/in/bruno-silveira-bba36435b" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-silveira" height="30" width="40" /> LinkedIn</a>
 
 ---
